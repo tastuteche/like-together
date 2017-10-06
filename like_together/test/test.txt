@@ -1,0 +1,12 @@
+i like dog
+she like cat
+i do not know
+similarity
+An extension of Peter Norvig's lispy (http://norvig.com/lispy.html) which includes the ability to access symbols from python packages as if they were written in
+Lispy can access any python module in python environment it's run from (note that lispy can also be run from inside a virtual environment, though that's not well
+An easier way to use pygame. Python 49 3 ... Hide package namespace in your emacs-lisp code ... A reimplementation of Thomas Andrews' Deal in Python.
+A dialect of Lisp that's embedded in Python. Contribute to hy development by creating an account on GitHub.
+In comparison, Python has 33 keywords and 110 syntactic forms, and Java has 50 ... Lispy Calculator is a subset of Scheme using only five syntactic forms (two ...
+Some just couldn't get used to Lisp syntax in the limited amount of class time they ... Python/Lisp supports modules and packages, which encourages program ...
+"Why in the world would you implement lisp in Python?" This is an ... Use it learn lispy wisdom, or to stare in slack-jawed horror at my implementation of macros.
+
